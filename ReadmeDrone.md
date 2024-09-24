@@ -1,7 +1,7 @@
 
 # Proyek Drone
 
-Proyek **Drone** ini adalah inisiatif open-source yang bertujuan untuk mengembangkan dan menerapkan sistem drone yang sepenuhnya fungsional. Proyek ini mencakup komponen perangkat keras dan perangkat lunak, yang memungkinkan modularitas, skalabilitas, dan kemudahan penggunaan. Proyek ini cocok untuk hobiis, peneliti, dan pengembang yang ingin membuat drone yang dapat disesuaikan untuk berbagai aplikasi seperti fotografi udara, pemetaan, pemantauan, dan navigasi otonom.
+Proyek **Drone** ini adalah bertujuan untuk mengembangkan dan menerapkan sistem drone yang sepenuhnya fungsional. Proyek ini mencakup komponen perangkat keras dan perangkat lunak, yang memungkinkan modularitas, skalabilitas, dan kemudahan penggunaan. Proyek ini cocok untuk hobiis, peneliti, dan pengembang yang ingin membuat drone yang dapat disesuaikan untuk berbagai aplikasi seperti fotografi udara, pemetaan, pemantauan, dan navigasi otonom.
 
 ## Fitur Utama
 
