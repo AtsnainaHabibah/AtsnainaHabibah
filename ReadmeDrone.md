@@ -1,4 +1,4 @@
-# CodeDroneDiy
+# DIY flight controller from scratch
 
 ## Deskripsi
 Proyek ini bertujuan untuk membuat pengendali penerbangan quadcopter yang sederhana menggunakan Arduino dan sensor inersia (IMU). Terdapat dua mode penerbangan utama:
